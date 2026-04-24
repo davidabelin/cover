@@ -1,2 +1,2 @@
 # cover
-Covering algorithm for Geometric Vertices
+Geometric Covering Problems
